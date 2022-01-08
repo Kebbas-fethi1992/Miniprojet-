@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&display=swap');
+body{
+  font-family: comfortaa !important;
+  font-size: 0.9rem !important;
+}
+.form-select, button{
+box-shadow: 4px 4px 10px rgb(224, 201, 245);
+}
+nav {
+  box-shadow: 4px 4px 9px #6f42c0;
+  background-color: #6f42c0;
+  color: white;
+  }
+.myform{
+  margin-top: 5mm;
+}

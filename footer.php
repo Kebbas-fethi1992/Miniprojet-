@@ -1,0 +1,5 @@
+<script src="js/bootstrap.bundle.min.js"></script>
+  <script src="js/sweetalert2.js"></script>
+  <script src="js/functions.js"></script>
+</body>
+</html>

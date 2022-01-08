@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<emplois promotion="2 eme anné Master GL ">
+  <seance jour="Dimanche" debut="09:00" fin="10:00" prof="Kharoubi Sahraoui" module="Gestion De Projet Info" salle="Amphie A"/>
+  <seance jour="Lundi" debut="13:30" fin="14:30" prof="Talbi Omar" module="Recherche Bibliographique" salle="Amphie A"/>
+  <seance jour="Mercredi" debut="13:30" fin="14:30" prof="Djaafri Laouni" module="XML Avancé et Web 2.0" salle="Labo 2"/>
+  <seance jour="Mercredi" debut="14:30" fin="15:30" prof="Djaafri Laouni" module="XML Avancé et Web 2.0" salle="Labo 2"/>
+  <seance jour="Lundi" debut="08:00" fin="09:00" prof="Mighazi Haj Madani" module="Dev App Android" salle="Labo 3"/>
+  <seance jour="Lundi" debut="09:00" fin="10:00" prof="Mighazi Haj Madani" module="Dev App Android" salle="Labo 3"/>
+  <seance jour="Lundi" debut="10:00" fin="11:00" prof="Mighazi Haj Madani" module="Dev App Android" salle="Labo 3"/>
+  <seance jour="Mercredi" debut="11:00" fin="12:00" prof="Djaafri Laouni" module="XML Avancé et Web 2.0" salle="Salle-14"/>
+  <seance jour="Dimanche" debut="13:30" fin="14:30" prof="Kharoubi Sahraoui" module="Gestion De Projet Info" salle="Salle-15"/>
+  <seance jour="Mardi" debut="08:00" fin="09:00" prof="Chadli Abdelhafidh" module="Maintenance Logiciels" salle="Salle-15"/>
+  <seance jour="Mardi" debut="09:00" fin="10:00" prof="Chadli Abdelhafidh" module="Maintenance Logiciels" salle="Salle-15"/>
+  <seance jour="Jeudi" debut="09:00" fin="10:00" prof="Lekmeche Zouaoui" module="Abglais" salle="A Distant"/>
+  <seance jour="Jeudi" debut="09:00" fin="10:00" prof="Bouchentouf Khaled" module="Législation de Travail" salle="A Distant"/>
+</emplois>

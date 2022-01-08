@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<promotion option="2 eme anné Master RT">
+  <etudiants/>
+  <modules>
+    <module idModule="2" nomModule="Gestion De Projet Info"/>
+    <module idModule="5" nomModule="Recherche Bibliographique"/>
+    <module idModule="6" nomModule="Législation de Travail"/>
+    <module idModule="8" nomModule="Qualité de Service"/>
+    <module idModule="10" nomModule="Théorie del'information"/>
+    <module idModule="11" nomModule="Parallélisme and Clustering"/>
+    <module idModule="12" nomModule="Sécurite des Réseaux et de Web"/>
+  </modules>
+</promotion>
